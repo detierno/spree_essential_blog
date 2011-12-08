@@ -1,6 +1,5 @@
 require 'spree_essentials'
 require 'acts-as-taggable-on'
-require 'spree_essential_blog/custom_hooks'
 
 module SpreeEssentialBlog
 
